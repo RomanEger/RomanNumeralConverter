@@ -1,0 +1,11 @@
+D:\projects vs\C# PROJECTS\RomanNumeralConverter\RomanNumeralConverter\bin\Debug\RomanNumeralConverter.exe.config
+D:\projects vs\C# PROJECTS\RomanNumeralConverter\RomanNumeralConverter\bin\Debug\RomanNumeralConverter.exe
+D:\projects vs\C# PROJECTS\RomanNumeralConverter\RomanNumeralConverter\bin\Debug\RomanNumeralConverter.pdb
+D:\projects vs\C# PROJECTS\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.csproj.AssemblyReference.cache
+D:\projects vs\C# PROJECTS\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.csproj.SuggestedBindingRedirects.cache
+D:\projects vs\C# PROJECTS\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.Form1.resources
+D:\projects vs\C# PROJECTS\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.Properties.Resources.resources
+D:\projects vs\C# PROJECTS\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.csproj.GenerateResource.cache
+D:\projects vs\C# PROJECTS\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.csproj.CoreCompileInputs.cache
+D:\projects vs\C# PROJECTS\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.exe
+D:\projects vs\C# PROJECTS\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.pdb
